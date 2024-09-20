@@ -1,0 +1,205 @@
+* {
+    margin: 0;
+}
+.main_text{
+    width: 323px;
+    height: 149px;
+}
+p {
+    margin: 1px;
+}
+.photo_gallery {
+    margin-left: 23%;
+    margin-top: 110px;
+    width: 1360px;
+    margin-bottom: 110px;
+}
+@font-face {
+    font-family: 'roboto';
+    src: url('Roboto.ttf');
+  }
+.PhotoText p{
+    font-family: 'roboto';
+    font-weight: 100;
+    font-size: 64px;
+    color: #BDBDBD;
+}
+.GalleryText h1{
+    font-family: roboto;
+    font-weight: 700;
+    font-size: 64px;
+    color: #333333;
+    letter-spacing: 1px;
+}
+.line {
+    margin-top: 35px;
+    background-color: #F2F2F2;
+    height: 1px;
+    width: 1362px;
+    display: flex;
+    justify-content: center;
+}
+.photos {
+    display: inline-flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 35px;
+    width: 1360px;
+    margin-top: 35px;
+}
+.image img{
+    width: 244px;
+    height: 303px;
+}
+
+
+
+.main_text2{
+    width: 402px;
+    height: 74px;
+    color: #BDBDBD;
+    
+}
+.main_text2 p{
+    font-family: 'roboto';
+    font-weight:300;
+    font-size: 64px;
+}
+.OurProjects{
+    margin-top: 95px;
+    margin-left: 23%;
+    width: 1362px;
+    height: 890px;
+    color: white;
+}
+
+.first_image {
+    background-size:100%;
+    background-repeat: no-repeat;
+    background-image: url('images/Rectangle17.webp');
+    width: 663px;
+    height: 296px;
+    margin-top: 70px;
+    
+    
+}
+.inim h2{
+    margin-left: 10px;
+    font-size: 36px;
+    font-family: 'roboto';
+}
+.inim {
+    position: absolute;
+    margin-top: 55px;
+    margin-left: 92px;
+}
+.inim img{
+    margin-left: 50px;
+}
+.additionaltext {
+    display: flex;
+    margin-top: 120px;
+}
+
+.second_image {
+    margin-top: 70px;
+    margin-left: 25px;
+}
+.flex {
+    display: flex;
+}
+.second {
+    margin-top: 35px;
+    margin-bottom: 212px;
+}
+.second div{
+    margin-right: 35px;
+}
+.chelglass {
+    margin-left: 23%;
+}
+.LightFast {
+    margin-top: 145px;
+    margin-left: 130px;
+    font-family: 'roboto';
+    font-size: 36px;
+    font-weight: 1000;
+    margin-bottom: 300px;
+}
+.LightFast p{
+    color: #091133;
+}
+.addtext p{
+    color: #6F7CB2;
+}
+.addtext {
+    width: 50%;
+    margin-top: 70px;
+    font-family: 'roboto';
+    font-size: 16px;
+    font-weight: 100;
+}
+.s4shits .main p{
+    font-size: 16px;
+    color: #091133;
+}
+.s4shits .add p{
+    color: #5D6970;
+    font-size: 10px;
+}
+.s4shits {
+    display: flex;
+    margin-top: 62px;
+}
+
+
+.loginpage {
+    display: flex;
+    justify-content: center;
+    background: url('images/Backdrop.png') no-repeat center center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    height: 1200px;
+    margin-bottom: 100px;
+    font-family: 'roboto';
+}
+.loginsquare {
+    margin-top: 87px;
+    width: 800px;
+    height: 861px;
+    background-color: white;
+    border-radius: 24px;
+}
+.loginsquare div{
+    display: flex;
+    justify-content: center;
+}
+.Maintext222 {
+    margin-top: 76px;
+    font-size: 32px;
+    font-family: 'roboto';
+}
+.sigma {
+    margin-top: 40px;
+}
+.facebook2 {
+    margin-top: 16px;
+}
+.bottom40 {
+    align-items: center;
+    margin-bottom: 40px;
+}
+.line2{
+    background-color: #666666;
+    opacity: 25%;
+    width: 223px;
+    height: 1px;
+}
+.inputsom {
+    margin-bottom: 24px;
+}
+.forgetur{
+    margin-left: 300px;
+}
